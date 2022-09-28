@@ -1,14 +1,15 @@
+<?php
 
+$severname="localhost";
+$username="root";
+$password="";
+$dbnmae="autowag";
 
-<?php // config php
-	$con=new mysqli("localhost","root","","registeration");
-	if ($con->connect_error)
-	{
-		die("Connection faield: ". $con->connect_error);
-	}
-	else {
-		echo "Connecteded Successfully.";
-	}
-	
-	
+$con= new mysqli($severname, $username, $password, $dbnmae);
+
+if($con->connect_error)
+{
+    die("connection faild: ".$con -> connect_error);
+}
+
 ?>
