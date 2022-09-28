@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> User LOGIN AS</title>
+        
+        <link rel="stylesheet" href="Userlogin.css">
+        <script src="/js/proj.js"></script>
+        <link rel="stylesheet" type="text/css"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+        
+    </head>
+
+    <body class="about">
+      
+			<div class="second"> 
+        
+        <div class="contactUs">
+        <center>
+        
+        <img src="https://img.icons8.com/color/144/000000/user-male-circle--v2.png"/>
+        <div class="wrapper">
+          <form class="form-signin"> 
+            <h1>Customer </h1>
+            <h4>Login here</h4>
+            <input type="text" class="Email" name="Email" placeholder="Email Address" required="" autofocus="" />
+            <br><br>
+            <input type="password" class="Email" name="Email" placeholder="Password" required=""/>      
+            <br><br>
+            </label><br>
+            
+            <button class="submit" type="submit">Login</button>  
+
+          </form>
+        </div>
+        </center>
+			
+        </div>
+			</div>
+    </body>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+     
+
+</html>    
+
+
+
+
+
+
+
+
