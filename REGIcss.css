@@ -1,0 +1,158 @@
+body.RegisterationForm
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(city-692037_1920.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.firstname
+{
+    font-size: 16px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+} 
+.lastname
+{
+    font-size: 16px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+}
+.birthday
+{
+    color: black;
+    font-size: 16px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+}
+
+.phonenumber
+{
+    
+    text-align: center;
+    font-size: 16px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+}
+.email
+{
+	color: black;
+    text-align: center;
+    font-size: 16px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    text-align:left ;
+    box-shadow: 2px 2px 8px;
+}
+.password
+{
+    font-size: 18px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+}
+.ConformPassword
+{
+    font-size: 18px;
+    height: 30px;
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px;
+}
+.cancel
+{
+    height: 30px;
+    width: 80px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+}
+
+
+.submit
+{
+    height: 30px;
+    width: 80px;
+    color: floralwhite;
+    background-color: #FFA722;
+    font-weight: bold;
+    border-radius: 3px;
+	
+}
+
+
+
+
+/*-------------------------------------------------Names ---------------------------*/
+
+label.First_Name
+{
+    line-height: 15px;
+    text-align: center;
+    color :white;
+
+}
+label.Last_Name
+{
+    line-height: 15px;
+    color :white;
+}
+.Date_of_Birth
+{
+    line-height: 15px;
+    color :rgb(255, 255, 255);
+}
+.radiob
+{
+   line-height: 15px;
+   color :white;
+}
+.Gender
+{
+    line-height: 15px;
+    color :white;
+}   
+    
+.Phone_Number
+{
+    line-height: 15px;
+    color :white;
+}
+.Email
+{
+    line-height: 15px;
+    color :white;
+    
+}
+.Create_Password
+{
+   line-height: 15px;
+   color :white;
+}
+.Conform_Password
+{
+    line-height: 15px;
+     color :white;
+}
+.form{
+  
+    margin: 100px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    background-color:rgba(221, 195, 152, 0.349);
+    border-radius: 10px;
+    width: 40%;
+	margin-left: 450px;
+  }

@@ -1,0 +1,77 @@
+
+body
+{
+	background-image: url(pexels-alexander-kovalev-2847648.jpg);
+    
+    height: 100vh;
+	display: grid;
+    background-size:cover;
+    background-repeat: no-repeat;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.submit1
+{
+    background-color: #ffb300;
+    border-radius: 20px; 
+    font-weight: bold;  
+    height: 60px;
+}
+.submit2
+{
+    background-color: #ffb300;
+    border-radius: 20px; 
+    font-weight: bold;
+    height: 60px;  
+     
+}
+.submit1:hover {
+    background-color: #ff7300;
+    color: rgb(218, 215, 40);
+    font-weight: bold;
+  }
+  .submit2:hover {
+    background-color: #df8840;
+    color: rgb(218, 215, 40);
+    font-weight: bold;
+  }
+.main
+{
+    width: auto;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+    padding: inherit;
+}
+.second1
+{
+    margin: 40px;
+    margin-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    background-color:rgba(92, 91, 91, 0.246);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 350px; 
+    height: 500px; 
+  }
+
+.second {
+    
+    margin: 40px;
+    margin-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    background-color:rgba(92, 91, 91, 0.246);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 350px;
+}
+
+
